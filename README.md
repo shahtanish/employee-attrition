@@ -17,7 +17,7 @@ The model was trained on a combined HR dataset containing 11,058 employee record
 ## Live Demo
 
 Streamlit App:
-[Your Streamlit URL]
+https://employee-attrition-68grgg7xi3yygqmrhs5y6v.streamlit.app/
 
 ---
 
@@ -101,12 +101,6 @@ employee-attrition/
 ├── final_clean_dataset.csv
 
 ├── requirements.txt
-
-├── docs/
-
-│ ├── Employee_Attrition_Paper.pdf
-
-│ └── Employee_Attrition_Report.pdf
 
 └── README.md
 
