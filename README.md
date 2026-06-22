@@ -124,8 +124,4 @@ employee-attrition/
 
 ## Authors
 
-Tanish Shah (25MCA1039)
-
-Prince Bhandari (25MCA1007)
-
-VIT Chennai
+Tanish Shah 
